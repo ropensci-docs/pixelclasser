@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "e2539ca0ddec965e34003c591cd6d77b040aa260",
+    "author": "Carlos Real <carlos.real@usc.es>",
+    "time": "2021-02-22 21:16:31",
+    "files": 2,
+    "merge": false,
+    "message": "Errata in badges\n"
+  },
+  "repo": "https://github.com/ropensci/pixelclasser",
+  "pkg": "pixelclasser"
+}
